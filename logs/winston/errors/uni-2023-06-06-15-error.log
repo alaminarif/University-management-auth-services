@@ -1,0 +1,23 @@
+Tue Jun 06 2023  15:7:48 [right meow!] error: global Error Handler: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "start month is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "end month is required"
+  }
+]
+Tue Jun 06 2023  15:12:45 [right meow!] error: global Error Handler: AcamedicSemester validation failed: year: 02
+Tue Jun 06 2023  15:14:42 [right meow!] error: global Error Handler: AcamedicSemester validation failed: year: 02
+Tue Jun 06 2023  15:47:33 [right meow!] error: global Error Handler: Academic Semester is Already Exist
