@@ -1,0 +1,7 @@
+Tue Jun 13 2023  15:7:8 [right meow!] error: global Error Handler:
+Tue Jun 13 2023  15:17:42 [right meow!] error: Cast to ObjectId failed for value "648806f71824b9e6111bd7" (type string) at path "_id" for model "AcamedicSemester"
+Tue Jun 13 2023  15:17:42 [right meow!] error: Cast to ObjectId failed for value "648806f71824b9e6111bd7" (type string) at path "_id" for model "AcamedicSemester"
+Tue Jun 13 2023  15:29:29 [right meow!] error: Cast to ObjectId failed for value "648806f71824b9e6111bd7" (type string) at path "_id" for model "AcamedicSemester"
+Tue Jun 13 2023  15:29:29 [right meow!] error: Cast to ObjectId failed for value "648806f71824b9e6111bd7" (type string) at path "_id" for model "AcamedicSemester"
+Tue Jun 13 2023  15:30:33 [right meow!] error: Cast to ObjectId failed for value "648806f71824b9e6111bd7" (type string) at path "_id" for model "AcamedicSemester"
+Tue Jun 13 2023  15:30:33 [right meow!] error: Cast to ObjectId failed for value "648806f71824b9e6111bd7" (type string) at path "_id" for model "AcamedicSemester"
